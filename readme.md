@@ -5,7 +5,7 @@
 
 ## Unidad: 1 - Trabajo Práctico 2
 
-#### Contenidos Desarrollados:
+#### Contenidos Desarrollado:
 
 - ES6 y POO
 
